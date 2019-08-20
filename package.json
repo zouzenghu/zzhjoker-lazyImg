@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zouzenghu/npm-webpack-library.git"
+    "url": "git+https://github.com/zouzenghu/zzhjoker-lazyImg.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/zouzenghu/npm-webpack-library/issues"
+    "url": "https://github.com/zouzenghu/zzhjoker-lazyImg/issues"
   },
-  "homepage": "https://github.com/zouzenghu/npm-webpack-library#readme",
+  "homepage": "https://github.com/zouzenghu/zzhjoker-lazyImg#readme",
   "dependencies": {
     "ts-loader": "^6.0.4",
     "typescript": "^3.5.3",
