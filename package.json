@@ -1,0 +1,28 @@
+{
+  "name": "zzhjoker-lazyimg",
+  "version": "1.0.0",
+  "description": "这是一个关于图片懒加载的插件",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zouzenghu/npm-webpack-library.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zouzenghu/npm-webpack-library/issues"
+  },
+  "homepage": "https://github.com/zouzenghu/npm-webpack-library#readme",
+  "dependencies": {
+    "ts-loader": "^6.0.4",
+    "typescript": "^3.5.3",
+    "webpack": "^4.39.2",
+    "webpack-cli": "^3.3.7"
+  }
+}
